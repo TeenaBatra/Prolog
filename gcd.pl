@@ -1,4 +1,3 @@
-% Name: Teena Batra Roll No.: 184050
 gcd(X,Y):- X=Y,write('GCD of two numbers is: '),write(X).
 gcd(0,Y):-write('GCD of two numbers is '),write(Y).
 gcd(X,0):-write('GCD of two numbers is '),write(X).
